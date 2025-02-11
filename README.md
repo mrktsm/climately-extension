@@ -47,6 +47,9 @@ Climately was developed during **HackHarvard 2024**, where we tackled various ch
 ## Team
 Built with ❤️ at **HackHarvard 2024**
 
+## Learn More
+Check out our [Devpost submission](https://devpost.com/software/calendar-weather-app) for more details about the project and its development during HackHarvard 2024.
+
 ## Acknowledgments
 Special thanks to:
 - **HackHarvard 2024** mentors and organizers
